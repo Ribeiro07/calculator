@@ -28,3 +28,6 @@ Output: 100000
 6 - Square root  
 Input: sqr(25)  
 Output: 5
+
+# Exiting calculator
+To exit the calculator program you must input "0", withou quotes.
